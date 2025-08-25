@@ -1,5 +1,6 @@
 # DE3_Create-and-execute-a-SQL-workflow-in-Dataform
 # Create View and Tables 
+https://www.cloudskillsboost.google/paths/16/course_templates/1157/labs/521349
 
 
 <img width="1313" height="729" alt="image" src="https://github.com/user-attachments/assets/fd796c91-dcba-412f-bc81-ebaf88c5322d" />
